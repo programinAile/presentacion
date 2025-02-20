@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+h1{
+    color:blueviolet
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    object-fit: cover;
+}
